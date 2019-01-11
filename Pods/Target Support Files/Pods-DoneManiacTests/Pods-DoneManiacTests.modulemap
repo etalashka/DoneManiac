@@ -1,0 +1,6 @@
+framework module Pods_DoneManiacTests {
+  umbrella header "Pods-DoneManiacTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

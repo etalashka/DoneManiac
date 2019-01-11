@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>273434829075-p2cjklpqghrinqtmhed2kdc0o319ho7k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.273434829075-p2cjklpqghrinqtmhed2kdc0o319ho7k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtTwI08Em8wdXvR6swGmT8KvXPFtgfRbE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>273434829075</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.talashka.DoneManiac</string>
+	<key>PROJECT_ID</key>
+	<string>donemaniac-c643e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>donemaniac-c643e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:273434829075:ios:29014333cfb50f95</string>
+	<key>DATABASE_URL</key>
+	<string>https://donemaniac-c643e.firebaseio.com</string>
+</dict>
+</plist>
